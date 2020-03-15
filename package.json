@@ -1,6 +1,6 @@
 {
   "name": "@littlehorseboy/how-to-npm",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "學習 npm",
   "main": "index.js",
   "scripts": {

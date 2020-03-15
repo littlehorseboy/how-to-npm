@@ -4,8 +4,20 @@
   "description": "學習 npm",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "author": "小馬彬",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/littlehorseboy/how-to-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/littlehorseboy/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/littlehorseboy/how-to-npm#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {}
 }

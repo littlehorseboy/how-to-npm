@@ -1,0 +1,11 @@
+{
+  "name": "@littlehorseboy/how-to-npm",
+  "version": "1.0.0",
+  "description": "學習 npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "小馬彬",
+  "license": "ISC"
+}
